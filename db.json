@@ -1,51 +1,51 @@
 {
- "profile": {
+  "profile": {
     "name": "Abed",
-    "username" "abed42"
+    "username": "abed42"
   },
-"todos" : [
-  {
-  "userId": 1,
-  "id": 1,
-  "title": "cook pasta",
-  "completed": false
-  },
+  "todos": [
     {
-  "userId": 1,
-  "id": 2,
-  "title": "do the dishes",
-  "completed": false
-  },
-      {
-  "userId": 1,
-  "id": 3,
-  "title": "learn about APIs",
-  "completed": false
-  },
-        {
-  "userId": 1,
-  "id": 4,
-  "title": "read about react",
-  "completed": false
-  },
-  {
-  "userId": 1,
-  "id": 5,
-  "title": "apply to 10 jobs this week",
-  "completed": false
-  },
-        {
-  "userId": 1,
-  "id": 6,
-  "title": "book a 1-1 with Abed",
-  "completed": false
-  },
+      "userId": 1,
+      "id": 1,
+      "title": "cook pasta",
+      "completed": false
+    },
+    {
+      "userId": 1,
+      "id": 2,
+      "title": "do the dishes",
+      "completed": false
+    },
+    {
+      "userId": 1,
+      "id": 3,
+      "title": "learn about APIs",
+      "completed": false
+    },
+    {
+      "userId": 1,
+      "id": 4,
+      "title": "read about react",
+      "completed": false
+    },
+    {
+      "userId": 1,
+      "id": 5,
+      "title": "apply to 10 jobs this week",
+      "completed": false
+    },
+    {
+      "userId": 1,
+      "id": 6,
+      "title": "book a 1-1 with Abed",
+      "completed": false
+    },
 
-  {
-  "userId": 1,
-  "id": 6,
-  "title": "buy some crypto",
-  "completed": false
-  },
-
+    {
+      "userId": 1,
+      "id": 6,
+      "title": "buy some crypto",
+      "completed": false
+    }
+  ]
 }
